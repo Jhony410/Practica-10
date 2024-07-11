@@ -17,7 +17,9 @@ El archivo esta para poder visualizar en tkinter y crear gráficos 3D interactiv
 
 # RECOMENDACIONES
 Debemos instalar las siguientes librerias para poder usar las interfaces.
+
 Preferible que sea un compilador como visual studio code para poder ver.
+
 1. pip install tk
 2. pip install numpy
 3. pip install matplotlib
