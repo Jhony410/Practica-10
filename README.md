@@ -14,6 +14,9 @@ o	Mejoras en la Interfaz: Desarrollar una interfaz gráfica más avanzada usando
 
 o	Persistencia de Datos: Implementar la capacidad de guardar y cargar configuraciones de superficies en archivos.
 
+# Explicacion
+Enlace de la explicacion del codigo: https://colab.research.google.com/drive/1fklTCU36Kbub_g4lXk7wR_IDLO9vt2a9?usp=sharing
+
 # Salida
 El archivo esta para poder visualizar en tkinter y crear gráficos 3D interactivos utilizando Matplotlib y Plotly.
 
