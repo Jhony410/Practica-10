@@ -1,11 +1,11 @@
-# Practica 10
+# Practica 10 🏬
 
 Practica 10 del curso de POO II 
 
-# Integrantes:
+# Integrantes 🙋🏼‍♂️
   Aguilar Anccori Jhon Elias
 
-# Tarea
+# Tarea 💻
 En la carpeta prac 10.py esta el codigo completo con todas las especificaciones que nos pide
 
 o	Nuevas Superficies: Añadir nuevas clases de superficies (por ejemplo, hiperboloide, cónicas, etc.).
@@ -14,3 +14,10 @@ o	Persistencia de Datos: Implementar la capacidad de guardar y cargar configurac
 
 # Salida
 El archivo esta para poder visualizar en tkinter y crear gráficos 3D interactivos utilizando Matplotlib y Plotly.
+
+# RECOMENDACIONES
+Debemos instalar las siguientes librerias para poder usar las interfaces.
+Preferible que sea un compilador como visual studio code para poder ver.
+1. pip install tk
+2. pip install numpy
+3. pip install matplotlib
